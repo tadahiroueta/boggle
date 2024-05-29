@@ -12,17 +12,17 @@
 ### Faithful to original Boggle
 Same rules and point system
 
-![full-game](https://github.com/tadahiroueta/ant-colony/blob/master/samples/full-game.gif)
+![full-game](https://github.com/tadahiroueta/boggle/blob/master/samples/full-game.gif)
 
 ### Perfect solution calculated
 ```BoggleSolver.java``` iterates through all non-repeating possible combinations to find valid words. Results are shown on ```Possible Points``` table.
 
-![perfect-solution](https://github.com/tadahiroueta/ant-colony/blob/master/samples/perfect-solution.gif)
+![perfect-solution](https://github.com/tadahiroueta/boggle/blob/master/samples/perfect-solution.gif)
 
 ### Multiple dictionaries  
 Different dictionaries allow for different difficulties
 
-![settings](https://github.com/tadahiroueta/ant-colony/blob/master//samples/settings.png)
+![settings](https://github.com/tadahiroueta/boggle/blob/master//samples/settings.png)
 
 ```
 200345	SAPONIFY
